@@ -16,6 +16,16 @@ if (isset($_GET['m'])) {
     } elseif ($module === 'login') {
         include 'views/UILogin.php';
 
+    // ADMIN PAGE
+    } elseif ($module === 'dashboard') {
+        include('views/UIDashboard.php');
+    } elseif ($module === 'createcert') {
+        include('views/UICreateCert.php');
+    } elseif ($module === 'verifycerts') {
+        include('views/UIVerifyCerts.php');
+    } elseif ($module === 'viewcerts') {
+        include('views/UIViewCerts.php');
+
     // REQUEST CERTIFICATE
     } elseif ($module === 'requestform') {
         include 'views/UIRequestForm.php';

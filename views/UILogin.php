@@ -5,7 +5,8 @@
   <h1 class="text-center"><span class="accent">Login</span></h1>
   <div class="row d-flex justify-content-center">
     <div class="col-md-6">
-      <form action="login_process.php" method="POST">
+      <!--<form action="login_process.php" method="POST">-->
+      <form action="index.php?m=dashboard" method="POST">
         <div class="form-group">
           <label for="username">Username</label>
           <input type="text" class="form-control" id="username" name="username" required>
