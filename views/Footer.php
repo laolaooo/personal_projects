@@ -67,8 +67,9 @@
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-  
-  <script src="assets/js/main.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/sched-main.js"></script>
+
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
