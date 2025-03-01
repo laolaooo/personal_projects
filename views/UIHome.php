@@ -1,5 +1,6 @@
 <?php include 'Header.php'; ?>
 
+<main>
     <!-- Hero Section -->
     <section id="hero" class="hero section accent-background">
 
@@ -385,7 +386,7 @@
         <h2>Mass Schedule</h2>
       </div><!-- End Section Title -->
 
-      <div class="cd-schedule cd-schedule--loading margin-top-lg margin-bottom-lg js-cd-schedule">
+        <div class="cd-schedule cd-schedule--loading margin-top-lg margin-bottom-lg js-cd-schedule">
           <div class="cd-schedule__timeline">
             <ul>
               <li><span>6:00</span></li> 
@@ -510,13 +511,12 @@
                       </a>
                     </li> <!-- END : ANTICIPATED BISAYAN MASS -->
                   </ul>
-
               </li>
 
               <li class="cd-schedule__group">
                 <div class="cd-schedule__top-info"><span>Sunday</span></div>
         
-                <ul>
+                  <ul>
                     <li class="cd-schedule__event">
                       <a href="#0" style="pointer-events: none;" data-start="6:00" data-end="7:00" data-content="event-abs-circuit" data-event="event-1">
                         <span class="cd-schedule__name">Bisayan Mass</span>
@@ -576,17 +576,15 @@
                         <span class="cd-schedule__name">Bisayan Mass</span>
                       </a>
                     </li> <!-- END : BISAYAN MASS -->
+                  </ul>
               </li>
             </ul>
           </div>
       
-      <div class="cd-schedule-modal"></div>
-      </div> <!-- .cd-schedule -->  
-      
       <script src="assets/js/util.js"></script>
       <script src="assets/js/sched-main.js"></script>
 
-    </section><!-- /Recent Posts Section -->
+    </section>
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">

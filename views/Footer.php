@@ -1,6 +1,6 @@
-  </main>
+</main>
 
-  <footer id="footer" class="footer accent-background">
+<footer id="footer" class="footer accent-background">
 
     <div class="container footer-top">
       <div class="row gy-4">
@@ -69,5 +69,4 @@
   <script src="assets/js/main.js"></script>
 
 </body>
-
 </html>
