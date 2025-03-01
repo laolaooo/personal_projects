@@ -76,34 +76,3 @@
 
   </header>
 
-  <main class="main">
-    <!-- The main content will be included here -->
-  </main>
-
-  <script src="assets/js/main.js"></script>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const heroSection = document.getElementById('hero');
-      const sitename = document.querySelector('.sitename');
-
-      if (heroSection && sitename) {
-        sitename.style.transition = 'opacity 0.5s ease-in-out';
-        sitename.style.opacity = '0';
-
-        const observer = new IntersectionObserver(entries => {
-          entries.forEach(entry => {
-            if (entry.intersectionRatio > 0.85) {
-              sitename.style.opacity = '0';
-            } else {
-              sitename.style.opacity = '1';
-            }
-          });
-        }, { threshold: [0.85] });
-
-        observer.observe(heroSection);
-      }
-    });
-  </script>
-
-</body>
