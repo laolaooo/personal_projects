@@ -516,71 +516,78 @@
             <li class="cd-schedule__group">
               <div class="cd-schedule__top-info"><span>Sunday</span></div>
       
-                <ul>
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="6:00" data-end="7:00" data-content="event-abs-circuit" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
-        
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="7:30" data-end="8:30" data-content="event-rowing-workout" data-event="event-2">
-                      <span class="cd-schedule__name">English Mass</span>
-                    </a>
-                  </li> <!-- END : ENGLISH MASS -->
-        
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="9:00" data-end="10:00"  data-content="event-yoga-1" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
+              <ul>
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="6:00" data-end="7:00" data-content="event-abs-circuit" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
+      
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="7:30" data-end="8:30" data-content="event-rowing-workout" data-event="event-2">
+                    <span class="cd-schedule__name">English Mass</span>
+                  </a>
+                </li> <!-- END : ENGLISH MASS -->
+      
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="9:00" data-end="10:00"  data-content="event-yoga-1" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="10:30" data-end="11:30"  data-content="event-yoga-1" data-event="event-3">
-                      <span class="cd-schedule__name">Healing Mass</span>
-                    </a>
-                  </li> <!-- END : HEALING MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="10:30" data-end="11:30"  data-content="event-yoga-1" data-event="event-3">
+                    <span class="cd-schedule__name">Healing Mass</span>
+                  </a>
+                </li> <!-- END : HEALING MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="12:00" data-end="13:00"  data-content="event-yoga-1" data-event="event-2">
-                      <span class="cd-schedule__name">English Mass</span>
-                    </a>
-                  </li> <!-- END : ENGLISH MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="12:00" data-end="13:00"  data-content="event-yoga-1" data-event="event-2">
+                    <span class="cd-schedule__name">English Mass</span>
+                  </a>
+                </li> <!-- END : ENGLISH MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="13:30" data-end="14:30" data-content="event-abs-circuit" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="13:30" data-end="14:30" data-content="event-abs-circuit" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="15:00" data-end="16:00" data-content="event-abs-circuit" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="15:00" data-end="16:00" data-content="event-abs-circuit" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="16:30" data-end="17:30" data-content="event-abs-circuit" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="16:30" data-end="17:30" data-content="event-abs-circuit" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="18:00" data-end="19:00"  data-content="event-yoga-1" data-event="event-2">
-                      <span class="cd-schedule__name">English Mass</span>
-                    </a>
-                  </li> <!-- END : ENGLISH MASS -->
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="18:00" data-end="19:00"  data-content="event-yoga-1" data-event="event-2">
+                    <span class="cd-schedule__name">English Mass</span>
+                  </a>
+                </li> <!-- END : ENGLISH MASS -->
 
-                  <li class="cd-schedule__event">
-                    <a href="#0" style="pointer-events: none;" data-start="19:30" data-end="20:30" data-content="event-abs-circuit" data-event="event-1">
-                      <span class="cd-schedule__name">Bisayan Mass</span>
-                    </a>
-                  </li> <!-- END : BISAYAN MASS -->
-                </ul>
+                <li class="cd-schedule__event">
+                  <a href="#0" style="pointer-events: none;" data-start="19:30" data-end="20:30" data-content="event-abs-circuit" data-event="event-1">
+                    <span class="cd-schedule__name">Bisayan Mass</span>
+                  </a>
+                </li> <!-- END : BISAYAN MASS -->
+              </ul>
             </li>
           </ul>
         </div>
+
+        <div class="cd-schedule-modal">
+        </div> <!-- .cd-schedule -->  
+
       </div>
+      
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/sched-main.js"></script>
     </section>
 
     <!-- Contact Section -->
