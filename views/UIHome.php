@@ -1,5 +1,6 @@
 <?php include 'Header.php'; ?>
 
+<main>
     <!-- Hero Section -->
     <section id="hero" class="hero section accent-background">
 
@@ -98,7 +99,7 @@
           </div>
           <h3>Baptismal Services</h3>
           <p>We celebrate the sacrament of Baptism, welcoming new members into the Christian community.</p>
-          <a href="index.php?m=servicedetails" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+          <a href="index.php?m=requestform" class="readmore stretched-link">Request a Baptismal Certificate <i class="bi bi-arrow-right"></i></a>
         </div>
           </div><!-- End Service Item -->
 
@@ -109,7 +110,7 @@
           </div>
           <h3>Certificate Issuance and Tracking</h3>
           <p>Conveniently request and track the status of your baptismal certificate online.</p>
-          <a href="index.php?m=servicedetails" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+          <a href="index.php?m=trackcertificate" class="readmore stretched-link">Track Your Certificate <i class="bi bi-arrow-right"></i></a>
         </div>
           </div><!-- End Service Item -->
 
@@ -576,6 +577,7 @@
                         <span class="cd-schedule__name">Bisayan Mass</span>
                       </a>
                     </li> <!-- END : BISAYAN MASS -->
+                  </ul>
               </li>
             </ul>
           </div>
