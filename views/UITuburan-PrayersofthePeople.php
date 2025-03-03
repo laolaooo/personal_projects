@@ -7,7 +7,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Prayer of the People</h1>
-              <p class="mb-0"><i>"Si Cristo midan-ag isip kahayag nga gipadayag ngadto sa kanasuran ug ang himaya sa iyang katawhan..."</i></p>
+              <p class="mb-0"><i>"Ang atong Langitnong Amahan hilabihan sa kayo kanato..."</i></p>
             </div>
           </div>
         </div>
@@ -65,23 +65,23 @@
             <div class="portfolio-description">
               <h2>Prayers of the People</h2>
 
-                <p>P. Si Cristo midan-ag isip kahayag nga gipadayag ngadto sa kanasuran ug ang himaya sa iyang katawhan. Ibungat ta karon ang atong mga pag-ampo ngadto sa Amahan nga mitugyan sa iyang Bugtong Anak alang kanato. Busa moingon kita: </p>
+                <p><b> P. Ang atong Langitnong Amahan hilabihan sa kayo kanato. Atong iampo nga ang iyang maloloy-ong gugma maoy mahimong timaan sa atong paghigugmaay sa usag-usa ug moingon kita:</b> </p>
 
                 <h3>GINOO, DUNGGA ANG AMONG PAG-AMPO</h3>
                 
-                <p>1. Nga ang mga magbalantay sa Simbahan mapadayong magsangyaw sa gipadayag nga pulong ug mag-atiman kanato uban sa makapalig-ong mga oagtulon-an, mag-ampo kita; </p>
+                <p>1. Alang sa tanang mgakristiyanos, nga sa atong pagkabukas sa pagpasaylo ug pagpangita, pagsabot ug kalinaw makapaduol kanato kang Cristo ug sa iyang Ebanghelyo, mag-ampo kita; </p>
 
-                <p>2.	Nga tungod sa kamasinugtanon ni Maria ug ni Jose, kita madasig kanunay sa patamod sa mga kasuguan sa simbahan, mag-ampo kita; </p>
+                <p>2.	Alang sa tanang mga naglisod sa pagpasaylo, ug kadtung mga nabutaan ug nagmagahion gumikan sa ilang pagdumot, nga ang Dios magdala kanila’g kaluoy, mag-ampo kita; </p>
 
-                <p>3.	Alang sa atong lawig sa pagtuo isip usa ka simbahan uban ni Obispo Alberto/Padre _________ masinati nato si Kristo pinaagi sa atong Gagmayng Simbahanong Katilingban, mag-ampo kita; </p>
+                <p>3.	Alang sa atong lawig sa pagtuo isip usa ka simbahan uban ni Obispo Alberto/Padre_________masinati nato si Kristo pinaagi sa atong Gagmayng Simbahanong Katilingban, mag-ampo kita; </p>
 
-                <p>4.	Alang niining tuig sa Yubileo sa Paglaum nga sa kanunay maipakita ang atong lawom nga pagsalig ug malaomong pagtuo sa Dios taliwala sa mga mangitngit nga kasinatian ug nga kita manglakaw nga nagkahiusa pa-ingon sa Amahan, mag-ampo kita; </p>
+                <p>4.	Alang niining tuig sa Yubileo sa Paglaum nga sa kanunay maipakita ang atong lawom nga pagsalig ug malaomong pagtuo sa Dios taliwala sa mga mangitngit nga kasinatian ug nga kita manglakaw nga nagkahiusa pa-ingon sa Amahan, magampo kita; </p>
 
                 <p>5.	Nga madangat anto ang atong gipangandoy nga kalinaw alang sa tibuok kalibutan, mag-ampo kita; </p>
 
                 <p>6.	Nga ang walay katapusang kahayag sa kaluwasan magdan-ag kanila nga namatay na, mag-ampo kita. </p>
 
-                <p>P. Labing mahigugmaong Amahan, ipadangat namo ang among mga pagampo nganha kanimo samtang nangandam kami, sa makausa pa, sa paghalad sa imong Anak, ang matuod nga kahayag nga gipadayag ngadto sa tanang katawhan, kay siya buhi ug hari hangtod sa kahangturan. Amen. </p>
+                <p> <b> P. Maloloy-ong Amahan, imong gipadayunan sa paghigugma sila nga dili mapasalamaton ug naglu-ib kanimo- ug kini nag-uban kanamo. Tabangi kami sa pagtugyan sa among kaugalingon sama sa imong gibuhat, nga ikaw mahimong among Amahan hangtud sa kahangturan. Amen. </b> </p>
 
             </div>
           </div>

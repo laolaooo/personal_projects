@@ -63,17 +63,22 @@
 
           <div class="col-lg-8" data-aos="fade-up">
             <div class="portfolio-description">
-              <h2>Third Sunday in Ordinary Time</h2>
+              <h2>Seventh Sunday in Ordinary Time</h2>
 
-                <p>Niining ika upat nga domingo sa ordinario nga panahon, ang ebanghelyo nagahisgot mahitungod sa pagdala sa mga ginikan ni Jesus nga si Maria ug Jose sa ilang anak nga si Jesus didto sa templo agi og pagtuman sa gisugo sa balaod sa paghalad ug paghimo sa seremonyas sa paghinlo sa unang anak nga lalake sa magti-ayon. Sa diha nga misulod ang ginikanan ni Jesus kinugos ang ilang anak nga si Jesus, usa ka tao nga ginganlag Simeon nga sa dugay ng panahon nagpaabot sa pagtan aw sa magdala og kaluwasan sa kalibutan mitu-aw sa makusog nga nag-ingon: Karon Ginoo, mahimo na nga mohalin ang imong sulogoon sa kalinaw sumala sa imong pulong tungod kay sa akong kaugalingong mga mata nakita ko na ang kaluwasan din imong gi-andam sa tanang katawhan isip kahayag nga gipadayag bisan sa mga hentil ug himaya alang sa kalawhan nga Israel. Ang kahayag nga dala ni Kristo maoy nag iwag sa dalan sa katawhan nga naglakaw sa kangitngit gumikan sa kasalanan nga gipuy-an sa katawhan. Tungod niini, si propeta Simeon, nagpahayag ngadto sa ginikanan ni Kristo nga ang batang Jesus mamahimo nga kapokanan ug kabaroganan sa katawhan sa Israel ug mamahimong timaan nga pagasupakon sa ubang katawhan aron ang mga hunahuna ug ang sulod sa kasingkasing sa mga tao mabutyag. Agig paghatag og ka solemne sa maong pag-presentar sa batang Jesus isip kahayag sa kalibutan, kita nga katawhan sa Dios nagasaksi niana diha sa pagpabilin nga kahayag nga nagasiga sa kinabuhi sa atong pamilya ug katawhan sa katilingban pinaagi sa kinabuhi nga nagasunod sa balaod ug pagtulon-an sa Dios. Karong adlawa ato usab nga gisaulog ang seremonyas sa pagpabendisyon sa mga candela simbolo sa kahayag nga gidala ni Kristo sa kalibutan.</p>
+                <p>Niining ika pito nga Domingo sa Ordinaryo nga panahon, ang ebanghelyo nagahisgot mahitungod sa paghigugma ug pag-ampo nga atong ipakita bisan ngadto sa atong mga kaaway. Kay unsa man maani nato kon ang atong higugmaon kadto lamang mga higala nato. Bisan gani ang mga makasasala makahimo man sa paghigugma sa mga tao nga ilang kaila ug higala. Niining pa-agiha ang atong paghigugma ug pag-ampo sa mga tao nga ilang kaila ug higala. Niining paagiha ang atong paghigugma ug pag-ampo sa mga tao nga naghatag kanato ug kahasol ug kagubot usa man ka pagpadayag nga kita andam og tagana sa paglakat sa sobra nga gilay-on nga gipangayo kasarangan nga gitakda sa tawhanon nga pagsukod. Ang kinaiya nga makadawat sa mga tao nga gi-isip nga kaaway maoy maghatag kanato’g kabulahanan sap ag-ambit sa grasya og kahimayaan nga ihatag sa Dios ngari kanato. Kon unsa ang atong ipakita nga sukdanon sa paghukom sa atong isigkatao mao usab ang sukdanan nga ipahamtang sa Dios dinhi sa atong kinabuhi. Kinahanglang magtamud kita sa kina-iya nga masinabtanon sa mga kakulangan sa uban aron kita usab pakit-an sa masinabtanon nga pagtan-aw sa Dios sa atong mga kakulangan ug kasal-anan..</p>
 
                 <p>***</p>
 
-                <p>Magasugod na ang nobena sa Mahal na Birhen sa Lourdes karong adlawa Pebrero 2 domingo og mopadayon kini hangtud Pebrero 10 agl og pagpangandam sa kapiyestahan karong Pebrero 11. Ang tamdanan sa mga kalihokan sa nobenaryo ug piyesta gitala sa Program of Activities. </p>
+                <p>Gipahibalo dinhi nga magahimo ang tanang Kaparian sa Diocese of Tagbilaran sa ilang tinuig nga Holy Retreat adto sa Jesuit Retreat House sa Banawa Hills, Cebu City sugod karong lunes pebrero 24 hangtud sa huwebes Pebrero 27. Magapadayon gihapon ang mga skedyol sa weekday masses dinhi sa atong parokya: 6:00 AM, 7:05 AM, 12:00 NN ug 6:00 PM. </p>
                 
                 <p>***</p>
 
-                <p>Palihug sa pagbisita sa atong Website page sa Diocesan Shrine and Parish of Our Lady of Lourdes. Website Name: Our Lady of Lourdes Shrine Parish (www.lourdesparishshrine.com). Palihug usab sa pagfollow sa Official Facebook Page sa atong parokya. Facebook Page Name: OUR LADY OF LOURDES SHRINE PARISH (https://www.facebook.com/Lourdesshrineparish). Ania usab ang atong Official Email Address 	para 	sa 	mga 	inquiries 	ug 	concerns. 	Email 	Address: ourladyoflourdes710@gmail.com </p>
+                <p>Magasugod na ang panahon sa Kwaresma karong umaabot nga miyerkoles sa badlis (Ash Wednesday) Marso 5. 
+                    Ang skedyol sa misa mao kining mga mosunod: 6:00 AM, 7:05 Am, 12:NN, 5:00 PM, 6:15 Pm ug 7:30 PM. </p>
+
+                    <p>***</p>
+
+                <p>Palihug sa pagbisita sa atong <b>Website page</b> sa Diocesan Shrine and Parish of Our Lady of Lourdes. Website Name: Our Lady of Lourdes Shrine Parish (www.lourdesparishshrine.com). Palihug usab sa pagfollow sa Official Facebook Page sa atong parokya. Facebook Page Name: OUR LADY OF LOURDES SHRINE PARISH (https://www.facebook.com/Lourdesshrineparish). Ania usab ang atong Official Email Address 	para 	sa 	mga 	inquiries 	ug 	concerns. 	Email 	Address: ourladyoflourdes710@gmail.com </p>
 
             </div>
           </div>

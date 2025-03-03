@@ -7,7 +7,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Second Reading</h1>
-              <p class="mb-0">Kinutlo gikan sa sulat ngadto sa mga <b>Hebreo</b> <i>(Heb. 2:14-18)</i></p>
+              <p class="mb-0">KINUTLO GIKAN SA UNANG SULAT NI SAN PABLO NGADTO SA TAGA- <b>CORINTO</b> <i>(1 Cor.15:45-49)</i></p>
             </div>
           </div>
         </div>
@@ -63,17 +63,17 @@
 
           <div class="col-lg-8" data-aos="fade-up">
             <div class="portfolio-description">
-              <h2>Second Reading (January 26)</h2>
+              <h2>Second Reading (February 23)</h2>
 
-                <p>Sanglit ang mga anak nakaambit man sa unod ug dugo sa mga ginikanan, si Jesus usab nahimong sama kanila aron paglaglag sa yawa nga may gahum sa pagpatay. Sa maong paagi giluwas niya ang tanan nga naulipon sa tibuok nilang kinabuhi tungod sa ilang kahadlok sa kamatayon. Kay tin-aw nga dili ang mga anghel ang iyang gitabangan, kondili ang mga kaliwat ni Abraham. Nagpasabot kini nga kinahanglan mahimo siyang sama sa iyang mga igsuon sa tanang paagi aron mahimo siyang matinumanon ug maloloy-on nga Pangulong Pari sa iyang pag-alagad sa Dios, aron mapasaylo ang mga sala sa katawhan.</p>
+                <p>Kay ang Kasulatan nag-ingon, “Ang unang tawo nga si Adan gibuhat nga buhi,” apan ang katapusang Adan mao ang Espiritu nga naghatag ug kinabuhi. Dili maoy moabot pag-una ang espirituhanon, kondili ang lawasnon ug mosunod ang espirituhanon. Gihimo gikan sa abog sa yuta ang unang Adan;</p>
                 
-                <p>Ug tungod kay nag-antos man siya ug gitintal, makatabang usab siya kanila nga gitintal. </p>
+                <p>ang ikaduhang Adan mianhi gikan sa langit. Ang yutan-on sama sa hinimo gikan sa yuta, ug ang langitnon sama niadtong mianhi gikan sa langit. Ingon nga nagsul-ob kita sa dagway sa tawo nga hinimo gikan sa yuta, magsulob usab kita sa dagway sa Tawo nga gikan sa langit. </p>
 
                 <p><b>ANG PULONG SA GINOO</b></p>
 
                 <h3>Aleluya</h3>
 
-                <p>Aleluya. <b>"Usa ka kahayag nga magpadayag sa imong dalan ngadto sa mga dili Judio, ug maghatag sa Himaya ngadto sa imong katawahan, ang Israel.”</b> Aleluya. </p>
+                <p>Aleluya. <b>"Paglipay kamo kon mahitabo kini ug pagsayaw sa kasadya kay dako ang ganti nga gitagana alang kaninyo didto sa langit. Kay ang ilang mga katigulangan naghimo sa ingon ngadto sa mga propeta."</b> Aleluya. </p>
 
             </div>
           </div>

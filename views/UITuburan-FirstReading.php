@@ -7,7 +7,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>First Reading</h1>
-              <p class="mb-0">Kinutlo gikan sa Basahon ni <b>Propeta Nehemias</b> <i>(Neh. 8: 2-4, 5-6, 8-10)</i></p>
+              <p class="mb-0">Kinutlo gikan sa Basahon ni <b>Samuel</b> <i>(1 Sm. 26:2, 7-9, 12-13, 22-23)</i></p>
             </div>
           </div>
         </div>
@@ -63,11 +63,21 @@
 
           <div class="col-lg-8" data-aos="fade-up">
             <div class="portfolio-description">
-              <h2>First Reading (February 2)</h2>
+              <h2>First Reading (February 23)</h2>
 
-                <p>Miingon ang GINOO nga labing gamhanan, “Ipadala ko ang akong sinugo pag-andam sa dalan nga akong agian. Unya sa kalit moadto sa iyang Templo ang GINOO nga inyung gipaabot. Ang sinugo nga inyung gipangandoy moanhi ug magsangyaw sa akong kasabutan.” </p>
+                <p>Busa miadto si Saul paingon sa kamingawan sa Sip, inubanan sa tulo ka libo ka piniling mga sundalo sa Israel, aron pagpangita kang David. Busa sa pagkagabii, si David ug si Abisai miadto sa gikampohan ni Saul ug didto nakita
+                nila si Saul nga natulog didto sa taliwala sa kampo; ang iyang bankaw giugbok diha sa
+                iyang ulohan ug si Abner ug ang iyang mga sundalo nangatulog usab libot kaniya.  </p>
                 
-                <p>Apan kinsay molahutay sa adlaw sa pag-abot niya? Kinsa may makaharong inig padayag na niya? Sama siya sa kalayo nga nagputli sa puthaw, ug sama sa isog nga sabon. Moanhi siya sa paghukom sama sa magputli sa plata. Hinloan niya ang mga pari ingon sa pagputli sa plata ug bulawan. Unya maghalad sila sa GINOO sa husto nga matang sa mga halad. Unya ang mga halad nga dad-on sa katawhan sa Juda ug sa Jerusalem ngadto sa GINOO makapahimuot na kaniya sama sa kaniadto.</p>
+                <p>Unya giingnan ni Abisai si David, “Gitugyan na sa Dios kanimo niining adlawa ang imong
+                mga kaaway; busa tugoti ako nga bangkawon ko siya bisag kausa lamang.” Apan
+                giingnan ni David si Abisai, “Ayaw siya patya kay ang mopatay sa pinili sa GINOO silotan
+                gayod. Busa gikuha ni David ang bangkaw ug ang tibod,ug nanlakaw sila. Walay nakakita
+                ni nahigmata sa mga kaaway kay gipahinanok man sila sa GINOO.” Unya miadto si David
+                a tumoy sa pikas nga bukid nga layo na sa gikampohan ni Saul. Ug si David miingon,
+                “Ania ang imong bangkaw, Kamahalan! Ipakuha kini. Gantihan sa GINOO ang katarong
+                ug matinud-anon sa tagsatagsa ka tawo, kay gitugyan ka unta sa GINOO kanako niining
+                adlawa, apan wala ko ikaw hilabti kay pinili ka man sa GINOO.”.</p>
 
                 <p><b>ANG PULONG SA GINOO.</b> </p>
 

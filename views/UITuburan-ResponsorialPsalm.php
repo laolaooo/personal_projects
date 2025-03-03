@@ -7,7 +7,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Responsorial Psalm</h1>
-              <p class="mb-0">"Kinsa kining hari sa himaya? Ang ginoo mao siya."</b> <i>(Ps. 24-7,8,9,10)</i></p>
+              <p class="mb-0">"ANG GINOO MAAYO UG MALULUY-ON."</b> <i>(P.S. 103:1-2, 3-4, 8, 10, 12-13)</i></p>
             </div>
           </div>
         </div>
@@ -65,19 +65,23 @@
             <div class="portfolio-description">
               <h2>RESPONSORIAL PSALM</h2>
                 
-                <p><b>T. Kinsa kining hari sa himaya? Ang ginoo mao siya. </b></p>
+                <p><b>T. ANG GINOO MAAYO UG MALULUY-ON. </b></p>
 
-                <p>Alsaha, O mga ganghaan ang inyong marko: pataas kamo, mga karaang pultahan, aron masulod ang Hari sa himaya. </p>
+                <p>Dayga ang Ginoo, kalag ko; ug ang tibuok kong kaugalingon, dayga ang iyang balaang ngalan. Dayga ang Ginoo, kalag ko, ug ayaw hikalimti ang tanang mga kaayohan niya. </p>
 
-                <p><b>T. Kinsa kining Hari sa Himaya...</b></p>
+                <p><b>T. ANG GINOO MAAYO UG MALULUY-ON.</b></p>
 
-                <p>Kinsa kining Hari sa Himaya? Ang Ginoo makusganon ug gamhanan. Ang Ginoo, gamhanan sa gubat?</p>
+                <p>Gipasaylo niya ang tanan mong kadautan, gihupay niya ang tanan mong kasakitan. Giluwas niya ang imong kinabuhi sa kalaglagan, gilibutan ka niya sa kaayo ug kaluoy.</p>
 
-                <p><b>T. Kinsa kining Hari sa Himaya...</b></p>
+                <p><b>T. KANG GINOO MAAYO UG MALULUY-ON.</b></p>
 
-                <p>Alsaha, O mga ganghaan ang inyong marko; pataas kamo mga karaang pultahan, aron masulod ang Hari sa Himaya.</b></p>
+                <p>Maluluy-on ug mahigugmaon ang Ginoo, dugayng masuko ug hupong sa kaayo. Iya kitang gidumala dili sumala sa atong kasal-anan, ni mibalos siya kanato sumala sa atong mga kalapasan.</b></p>
 
-                <p><b>T. Kinsa kining Hari sa Himaya? Ang ginoo mao siya.</b></p>
+                <p><b>T. ANG GINOO MAAYO UG MALULUY-ON.</b></p>
+
+                <p> Maingon nga ang silangan halayo sa kasadpan, sa ingon iyang gipahilayo kanato ang atong mga kalapasan. Maingon nga ang amahan maluoy sa iyang mga anak, sa ingon naluoy ang Ginoo kanila nga mahadlokon kaniya. </p>
+
+                <p><b> T. ANG GINOO MAAYO UG MALULUY-ON.</b></p>
 
             </div>
           </div>

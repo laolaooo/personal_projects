@@ -7,7 +7,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Announcements</h1>
-              <p class="mb-0">ANNOUNCEMENT FEBRUARY 1, ANTICIPATED MASSES ON FEBRUARY 2, SUNDAY MASSES </p>
+              <p class="mb-0">FEBRUARY 8, ANTICIPATED MASSES ON FEBRUARY 9, SUNDAY MASSES </p>
             </div>
           </div>
         </div>
@@ -63,17 +63,20 @@
 
           <div class="col-lg-8" data-aos="fade-up">
             <div class="portfolio-description">
-              <h2>JANUARY 25, ANTICIPATED MASSES AND ON JANUARY 26, SUNDAY MASSES</h2>
+              <h2>FEBRUARY 8, ANTICIPATED MASSES ON FEBRUARY 9, SUNDAY MASSES</h2>
 
-                <p>1.	Si Msgr. Malanog, kinasing-kasing nagahangyo sa tanan sa pagsuporta ug pagbulig sa atong mga nagpadayong proyekto sa sulod sa simbahan. Palihug sa pagtunol ssa inyong donasyon diha sa <b>SECOND COLLECTION</b> O adto sa atong buhatan. </p>
+                <p>1. Si Msgr. Malanog, kinasing-kasing nagahangyo sa tanan sa pagsuporta ug pagbulig sa atong mga nagpadayong proyekto sa sulod sa simbahan. 
+                      Palihug sa pagtunol ssa inyong donasyon diha sa <b>SECOND COLLECTION</b> O adto sa atong buhatan. </p>
                 
-                <p>2.	Magasugod na ang nobena sa <b>Mahal nga Birhen sa Lourdes</b> karong adlawa <b>Pebrero 2, Domingo</b> ug mopadayon kini hangtud <b>Pebrero 10</b> agi og pagpangandam sa kapiyestahan karong <b>Pebrero 11</b>. Ang tamdanan sa kalihukan sa nobenaryo ug piyesta gitala sa Program of Activities. </p>
+                <p>2.	Karong umaabot Marso 1 Sabado, aduna na usab kita’y <b>“Aurora”</b> nga pagahimoon
+                      dinhi sa atong parokya sa may <b>alas 4:30</b> ang takna sa kaadlwaon ang sponsors
+                      niini mao ang mga neighborhood sa <b>R. Palma ug Pook Pantalan</b>. </p>
 
-                <p>3.	Si Msgr. Jeffrey P. Malanog uban sa mga kaparian sa parokya sa Birhen sa Lourdes, kinasing-kasing nga pag-awhag sa tanang parokyano sa paghatag ug pagpasidungog ug pagpasalamat sa atong Mahal na Patrona ang Birhen sa Lourdes pinaagi sa pagpa-ambit og pagkaon sa adlaw katumanan sa Pista karong <b>Pebrero 11</b>, ngadto sa mga tawo nga modulo sa inyung panimalay. Kon kita atong gipasidunggan ang bana nga si Senyor San Jose diha sa paghikay og pagkaon sa matag Mayo 1. Walay rason nganong dili nato hatagan sa maong susamang pasidungog ang asawa nga si Santa Maria, ang Birhen sa Lourdes. Atong panghinauton nga mamahimo untakining maong tradisyon sa atong parokya. </p>
+                <p>3.	Gipahibalo dinhi nga magahimo ang tanang Kaparian sa Diocese of Tagbilaran sa ilang tinuig nga Holy Retreat adto sa Jesuit Retreat House sa Banawa 
+                      Hills, Cebu City sugod karong lunes pebrero 24 hangtud sa huwebes Pebrero 27. Magapadayon gihapon ang mga skedyol sa weekday masses dinhi sa atong parokya: 6:00 AM, 7:05 AM, 12:00 NN ug 6:00 PM. </p>
 
-                <p>4.	Karong umaabot Pebrero 7- Biyernes aduna na usab kita'y pagahimoon nga “Holy Hour” sa may 6:30 ang takna sa gabii dinhi sa atong Simbahan, ang mopatigayon niini mao ang mga neighborhood sa R. Palma u gang Pook Pantalan.</p>
-
-                <p>5.	Karong Pebrero 11, Martes, atol sa kasaulogan sa kapistahan sa Mahal nga Birhen sa Lourdes, aduna na usab kita'y <b>“Flowers and Candle for Mama Mary”</b> nga tag 150.00 matag order ug modawat usab kita'g <b>“reservation”</b> pagpalista lang kamo adto sa opesina sa atong parokya, isulat lang ang inyong pangalan ug contact number. 
+                <p>4.	Magasugod na ang panahon sa Kwaresma karong umaabot nga miyerkoles sa badlis (Ash Wednesday) Marso 5. Ang skedyol sa misa mao kining mga mosunod: 6:00 AM, 7:05 Am, 12:NN, 5:00 PM, 6:15 Pm ug 7:30 PM.</p>
+                
 
             </div>
           </div>
