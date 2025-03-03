@@ -237,7 +237,7 @@
                 <a href="index.php?m=tuburan&p=announcements"><img src="assets/img/tuburan/announcements.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=announcements" title="Announcements">Announcements</a></h4>
-                  <p>Anticipated Mases for January 25th and Sunday Masses for Januray 26th</p>
+                  <p>ANTICIPATED MASSES ON FEBRUARY 9, SUNDAY MASSES</p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------ANNOUNCEMENTS---------->
@@ -247,7 +247,7 @@
                 <a href="index.php?m=tuburan&p=firstreading"><img src="assets/img/tuburan/firstReading.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=firstreading" title="First Reading">First Reading</a></h4>
-                  <p>Kinutlo gikan sa Basahon ni <b>Propeta Malaquias</b> <i>(Mal. 3:1-4)</i></p>
+                  <p>Kinutlo gikan sa Basahon ni <b>Samuel</b> <i>(1 Sm. 26:2, 7-9, 12-13, 22-23)</i></p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------FIRST READING---------->
@@ -257,7 +257,7 @@
                 <a href="index.php?m=tuburan&p=prayersofthepeople"><img src="assets/img/tuburan/prayerOfThePeople.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=prayersofthepeople" title="Prayer of the People">Prayer of the People</a></h4>
-                  <p><i>"Si Cristo midan-ag isip kahayag nga gipadayag ngadto sa kanasuran ug ang himaya sa iyang katawhan..."</i></p>
+                  <p><i>"Ang atong Langitnong Amahan hilabihan sa kayo kanato..."</i></p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------PRAYER OF THE PEOPLE---------->
@@ -267,7 +267,7 @@
                 <a href="index.php?m=tuburan&p=responsorialpsalm"><img src="assets/img/tuburan/responsorialPsalm.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=responsorialpsalm" title="Responsorial Psalm">Responsorial Psalm</a></h4>
-                  <p><b>"Kinsa kining hari sa himaya? Ang ginoo mao siya."</b> <i>(Ps. 24-7,8,9,10)</i></p>
+                  <p><b>"ANG GINOO MAAYO UG MALULUY-ON."</b> <i>(P.S. 103:1-2, 3-4, 8, 10, 12-13)</i></p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------RESPONSORIAL PSALM---------->
@@ -298,7 +298,7 @@
                 <a href="index.php?m=tuburan&p=secondreading"><img src="assets/img/tuburan/secondReading.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=secondreading" title="Second Reading">Second Reading</a></h4>
-                  <p>Kinutlo gikan sa sulat ngadto sa mga <b>Hebreo</b> <i>(Heb. 2:14-18)</i></p>
+                  <p>Kinutlo gikan sa sulat ngadto sa mga taga <b>CORINTO</b> <i>(1 Cor.15:45-49)</i></p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------SECOND READING---------->
@@ -308,7 +308,7 @@
                 <a href="index.php?m=tuburan&p=gospelreading"><img src="assets/img/tuburan/gospelReading.png" class="img-fluid" alt=""></a>
                 <div class="portfolio-info">
                   <h4><a href="index.php?m=tuburan&p=gospelreading" title="Gospel Reading">Gospel Reading</a></h4>
-                  <p>Ang pagbasa gikan sa ebanghelyo sumala ni <b>San Lucas</b> <i>(Lk. 2:22-40)</i></p>
+                  <p>Ang pagbasa gikan sa ebanghelyo sumala ni <b>San Lucas</b> <i>(Lk. 6:27-38)</i></p>
                 </div>
               </div>
             </div><!-- End Portfolio Item --------GOSPEL READING---------->
